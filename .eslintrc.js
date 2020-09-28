@@ -36,6 +36,6 @@ module.exports = {
     'operator-linebreak': ['error', 'after'],
     'block-spacing': 'error',
     'rest-spread-spacing': ['error', 'never'],
-    'semi': ['error', 'never']
+    semi: ['error', 'never']
   }
 }
