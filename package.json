@@ -13,7 +13,8 @@
     "axios": "^0.20.0",
     "next": "9.5.3",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "redux": "^4.0.5"
   },
   "devDependencies": {
     "eslint": "^7.10.0",
